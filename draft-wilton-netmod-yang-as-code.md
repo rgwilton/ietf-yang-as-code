@@ -43,7 +43,9 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+This document proposes that the IETF tries a process experiment for the management and evolution of YANG modules created and published by the IETF.  The goal is the make the process easier and more helpful, allowing YANG modules to be published more quickly without losing the benefits of having a stable and industry respected consensus process.
+
+This is very much a -00 initial draft, and I'm seeking input from the WG as to whether these process changes make sense, input from the chairs as to whether these process changes are helpful.
 
 
 # Conventions and Definitions
