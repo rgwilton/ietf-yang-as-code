@@ -4,7 +4,7 @@
 
 Network Modeling                                               R. Wilton
 Internet-Draft                                                     Cisco
-Intended status: Experimental                            24 October 2022
+Intended status: Informational                           24 October 2022
 Expires: 27 April 2023
 
 
